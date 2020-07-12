@@ -1,2 +1,2 @@
 # Machine Learning Algorithms
-This repository explains various machine learning algorithms and their implementation in sklearn.
+This repository explains various Machine Learning algorithms and their implementation in sklearn in the form of projects.
